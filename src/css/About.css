@@ -1,0 +1,29 @@
+*{
+   font-family: sans-serif;
+   color: #3c3939;
+}
+
+.profile-card {
+    width: 400px;
+    margin: auto;
+    background: #1ab64f;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.5);
+    text-align: center
+}
+
+/* .image-container {
+    position: relative;
+} */
+
+.title {
+    margin-top: 40px;
+}
+
+
+.info {
+    color: #4b4fe2;
+    margin-right: 16px;
+}
+.main-container {
+    padding: 20px;
+}
